@@ -109,6 +109,8 @@ if __name__ == "__main__":
           "8. Шар\n"
           "9. Конус")
 
+
+
     while True:
         command = input()
         match command:
